@@ -1,4 +1,6 @@
-# <div align="center"> Kang Woo Sung </div>
+# <div align="center"> Hello, I'm Woo Sung😎 </div>
+
+![19](https://github.com/rkddntjd7/rkddntjd7/assets/125332196/466be17c-6edf-46bb-9792-3839c3f31010) 
 
 <div align="center"> 💻Tech Stack💻 <br /> <br />
 
@@ -29,4 +31,6 @@
  <a href="mailto:rkddntjd7@naver.com"> <img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=Naver&logoColor=white"/> </a>
   <a href="https://www.instagram.com/wooo.___/"> <img src="https://img.shields.io/badge/Instagram-E4405f?style=flat&logo=Instagram&logoColor=white"/> </a>
 <a href="https://rkddntjd7.github.io/"> <img src="https://img.shields.io/badge/Portfolio-224099?style=flat&logo=Pandora&logoColor=white"/> </a>
+
+
 </div>
