@@ -1,4 +1,3 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=ADD8E6&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=WooSung's%20GitHub&descAlign=70.&descAlignY=44)
 <div align="center"> <h1> Hello, I'm Woo Sung😎 </h1> </div>
 <div align="center">
 <img src="https://github.com/rkddntjd7/rkddntjd7/assets/125332196/c619eefa-7271-404c-9a00-34e5bd4a5b68.gif">
